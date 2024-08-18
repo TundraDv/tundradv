@@ -16,11 +16,7 @@ const router = createBrowserRouter([
     children: [
       // {
       //   path: "/",
-      //   element: <Navigate to="/templates/0" />, 
-      // },
-      // {
-      //   path: "/",
-      //   element: <MakerView />, 
+      //   element: <ComponentView />, 
       // },
       {
         path: "*", 
