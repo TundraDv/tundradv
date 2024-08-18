@@ -1,0 +1,83 @@
+{
+ 
+  "download-button": {
+    "en": "Download",
+    "es": "Descargar"
+  },
+  "reset-button": {
+    "en": "Reset",
+    "es": "Resetear"
+  },
+  "fill-button": {
+    "en": "Fill",
+    "es": "Llenar"
+  },
+  "edit-button": {
+    "en": "Edit",
+    "es": "Editar"
+  },
+  "upload-button": {
+    "en": "Upload",
+    "es": "Subir"
+  },
+  "upload-alert": {
+    "en": "You can only upload a maximum of 2 images. Please delete one before uploading more.",
+    "es": "Solo puede subir un máximo de 2 imágenes. Por favor, elimina una antes de subir más"
+  },
+  "config-button": {
+    "en": "Download CONFIG",
+    "es": "Descargar CONFIG"
+  },
+  "uploadconfig-button": {
+    "en": "Upload CONFIG",
+    "es": "Subir CONFIG"
+  },
+  "uploadconfig-alert-ok": {
+    "en": "Template data applied successfully!",
+    "es": "La configuración de la plantilla fue aplicada"
+  },
+  "uploadconfig-alert-error": {
+    "en": "Failed to apply the template",
+    "es": "Fallo la aplicación de plantilla"
+  },
+  "uploadconfig-alert-instruct": {
+    "en": "Please upload a valid JSON file.",
+    "es": "Por favor, suba una configuración válida"
+  },
+  "selected-label": {
+    "en": "Selected",
+    "es": "Seleccionada"
+  },
+  "navbar-language": {
+    "en": "Language",
+    "es": "Idioma"
+  },
+  "navbar-about": {
+    "en": "About",
+    "es": "Info"
+  },
+  "navbar-templates": {
+    "en": "Templates",
+    "es": "Plantillas"
+  },
+  "about-body": {
+    "en": "Hello, I'm the creator of this page. I enjoy building web applications and sharing knowledge with the community.",
+    "es": "Hola, yo he creado esta página. Disfruto creando aplicaciones web y compartiendo conocimientos con la comunidad."
+  },
+  "about-body2": {
+    "en": "Feel free to make the trackers you need.",
+    "es": "Se libre de hacer los trackers que quieras."
+  },
+  "about-body3": {
+    "en": "Please contact me on Twitter/X to remove any picture.",
+    "es": "Por favor contactame por Twitter/X para sacar cualquier imagen."
+  },
+  "error-h1": {
+    "en": "Oops! Something went wrong.",
+    "es": "Uups! Algo salió mal."
+  },
+  "error-p": {
+    "en": "We're sorry, but the page you're looking for cannot be found or an error has occurred.",
+    "es": "Lo sentimos, pero la página que estas buscando no se encuentra o un error ha ocurrido."
+  }
+}
